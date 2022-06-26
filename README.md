@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Bhagi-developer,
-- 👀 I’m interested in Web Development...
-- 🌱 Finding Full-stack Web Development Internship...
-- 💞️ Competitive coder on hackerrank and leetcode...
-- 📫 How to reach me - email: bhagirathsinhmakwana2001@gmail.com...
-- 📫 This are my ids on different platforms -  HACKERRANK- https://www.hackerrank.com/bhagirathsinhma1
-                                             - LINKEDIN- https://www.linkedin.com/in/bhagirathsinh-makwana-b5a199194/
-                                             - TWITTER- https://twitter.com/MakwanaBhagira7  
-<!---
-Bhagi-developer/Bhagi-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
