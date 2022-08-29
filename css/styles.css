@@ -1,0 +1,192 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  position: relative;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.navbar {}
+
+.navbarWrapper {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  color: #000;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  background-color: #fff;
+  padding: 20px;
+  margin: 0;
+}
+
+.navbarItem {
+  cursor: pointer;
+}
+
+
+.socialIconsWrapper i {
+  cursor: pointer;
+  color: #000;
+  font-size: 30px;
+
+}
+
+.socialIconsWrapper a {
+  color: #000;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.container h2 {
+  color: #000;
+  text-align: center;
+}
+
+.btn {
+  background: #11cdd4;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  text-decoration: none;
+}
+
+.top-container {
+  text-align: center;
+}
+
+.myDesc {
+  color: #000;
+  font-size: 15px;
+  margin: 0;
+}
+
+.socialIconsWrapper {
+  display: flex;
+  width: 20%;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.Experiences {
+  text-align: left;
+  margin: auto;
+}
+
+.experienceItem {
+  margin-bottom: 50px;
+}
+
+.experienceItem {
+  display: flex;
+}
+
+.experienceDuration {
+  color: gray;
+}
+
+.experienceImage {
+  height: 140px;
+  width: 225px;
+  object-fit: contain;
+}
+
+
+.skillInnerContainer {
+  display: flex;
+}
+
+.skillImg {
+  height: 140px;
+  width: 225px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skill-row li {
+  margin: 10px;
+}
+
+.projects {
+  text-align: left;
+}
+
+.project-row li {
+  margin: 10px;
+}
+
+.contact-me {
+  margin: 15px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
